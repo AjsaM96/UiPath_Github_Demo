@@ -52,6 +52,13 @@
         "testCaseType": "TestCase",
         "executionTemplateInvokeIsolated": false,
         "fileName": "GitHubDemo\\TC01_GitHubDemo.xaml"
+      },
+      {
+        "editingStatus": "InProgress",
+        "testCaseId": "c6fe3a4b-a740-429a-8e30-17a2e4f18421",
+        "testCaseType": "TestCase",
+        "executionTemplateInvokeIsolated": false,
+        "fileName": "GitHubDemo\\TC02_andereDemo.xaml"
       }
     ],
     "saveToCloud": false
